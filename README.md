@@ -69,4 +69,4 @@ metrics: AUC
 ## stars
 1. [2018-KUAISHOU-TSINGHUA-Top13-Solutions](https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions)
 2. [蛇佬队友RNN](https://github.com/totoruo/KuaiShou2018-RANK13-RNN)
-3. 等等
+3. [好心的参赛选手收集的开源集合](https://github.com/linxid/Competition/tree/master/2018-%E5%BF%AB%E6%89%8B%E5%A4%A7%E6%95%B0%E6%8D%AE)
